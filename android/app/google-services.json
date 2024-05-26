@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551147371205",
+    "project_id": "quazzzdemo-c28f3",
+    "storage_bucket": "quazzzdemo-c28f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551147371205:android:d49b49254545c5b47dceac",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Za6SIzfMQhe8K2DkLbrsdGhsaqwqL0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
