@@ -1,4 +1,6 @@
 # Note-app
 
 Video demo:
-./Demo_video/noteApp.mp4
+
+https://github.com/quangkyzzz/Note-app/assets/57524232/eacc74f6-3f95-4ab8-8162-19e7c0cc535d
+
